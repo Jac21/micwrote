@@ -26,35 +26,32 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-f234fcc2d825427ac4aa.js"
+    "url": "webpack-runtime-5889feadca7ea07e78ac.js"
   },
   {
-    "url": "styles.6cd2ed3b978cc28f9bb9.css"
+    "url": "styles.1025963f4f2ec7abbad4.css"
   },
   {
     "url": "styles-9fc6511c7fbe903a1b9c.js"
   },
   {
-    "url": "app-5a04374205f53390bb19.js"
+    "url": "app-d173e3313c410b795e12.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-7ade3efd7b4848cc33a1.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "676a8327488419a3a67a66992d7b549e"
+    "revision": "b9b89e249718c0ea9ee62bac337d51df"
   },
   {
-    "url": "component---src-pages-404-js-f2b4107d361442d80326.js"
+    "url": "component---src-pages-404-js-ef88b092e75e570f8c82.js"
   },
   {
     "url": "0-877eba89af0455b22a59.js"
   },
   {
-    "url": "static/d/434/path---404-html-516-62a-enp7cNhiAgTKKeZZfzV8YrZDs8.json"
-  },
-  {
-    "url": "static/d/604/path---offline-plugin-app-shell-fallback-a-30-c5a-BawJvyh36KKFwbrWPg4a4aYuc8.json"
+    "url": "static/d/883/path---404-html-516-62a-ZIkiw1hCdgFUNQKfgGWZlvsLGA.json"
   },
   {
     "url": "manifest.webmanifest",
@@ -79,7 +76,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/micwrote/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -151,7 +148,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/micwrote${pathname}`
+        return `${pathname}`
       } else {
         return pathname
       }
