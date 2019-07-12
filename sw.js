@@ -26,32 +26,37 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-5889feadca7ea07e78ac.js"
+    "url": "webpack-runtime-15cabc753760b675dc00.js"
   },
   {
     "url": "styles.1025963f4f2ec7abbad4.css"
   },
   {
-    "url": "styles-9fc6511c7fbe903a1b9c.js"
+    "url": "styles-d653ea551115ad24a78c.js"
   },
   {
-    "url": "app-d173e3313c410b795e12.js"
+    "url": "app-6625f7556fc1210d9c3d.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-7ade3efd7b4848cc33a1.js"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-af3c5c17751fcf590ad8.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "b9b89e249718c0ea9ee62bac337d51df"
+    "revision": "ea74df439b0889167a04c548f5d2b23a"
   },
   {
-    "url": "component---src-pages-404-js-ef88b092e75e570f8c82.js"
+    "url": "component---src-pages-404-js-bf63df7487a1b612acf3.js"
   },
   {
-    "url": "0-877eba89af0455b22a59.js"
+    "url": "0-43c3b8504d39d035fd00.js"
   },
   {
-    "url": "static/d/883/path---404-html-516-62a-ZIkiw1hCdgFUNQKfgGWZlvsLGA.json"
+    "url": "page-data/404.html/page-data.json",
+    "revision": "82800e3edaa1e62f6b91b2694241daba"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "bc8ee5d9b4a23352b406b5ed796986a1"
   },
   {
     "url": "manifest.webmanifest",
@@ -62,6 +67,7 @@ workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, workbox.strategies.cacheFirst(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\page-data\/.*\/page-data\.json/, workbox.strategies.networkFirst(), 'GET');
 workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, workbox.strategies.staleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, workbox.strategies.staleWhileRevalidate(), 'GET');
 
