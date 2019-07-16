@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `micwrote`,
     author: `Jeremy Cantu`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Jeremy Cantu's Microblog`,
+    siteUrl: `https://micwrote.com/`,
     social: {
       github: `Jac21`,
     },
@@ -50,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-80565465-6`,
       },
     },
     `gatsby-plugin-feed`,
