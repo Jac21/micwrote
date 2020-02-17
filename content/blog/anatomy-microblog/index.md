@@ -1,7 +1,7 @@
 ---
 title: Anatomy of a Microblog (Literally, Figuratively, and Potentially)
 date: "2019-07-16T03:18:57Z"
-description: Breaking the rules on the very first post
+description: Breaking the rules on the very first post...
 ---
 
 ![Avila](./avila.jpg)
