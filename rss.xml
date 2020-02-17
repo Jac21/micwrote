@@ -1,10 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[micwrote]]></title><description><![CDATA[Jeremy Cantu's Microblog]]></description><link>https://micwrote.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 16 Jul 2019 03:27:08 GMT</lastBuildDate><item><title><![CDATA[Anatomy of a Microblog (Literally, Figuratively, and Potentially)]]></title><description><![CDATA[Author’s Note: I’m about to break just about every ‘rule,’ guideline, and best-practice defined and discussed below. Apologies, in advance…]]></description><link>https://micwrote.com//anatomy-microblog/</link><guid isPermaLink="false">https://micwrote.com//anatomy-microblog/</guid><pubDate>Tue, 16 Jul 2019 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[micwrote]]></title><description><![CDATA[Jeremy Cantu's Microblog]]></description><link>https://micwrote.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Feb 2020 21:40:23 GMT</lastBuildDate><item><title><![CDATA[Intaking the Intern]]></title><description><![CDATA[The resulting Faustian bargain between a software developer that expresses even a modicum of interest in honing soft skills, and their…]]></description><link>https://micwrote.com/intaking-intern/</link><guid isPermaLink="false">https://micwrote.com/intaking-intern/</guid><pubDate>Sun, 16 Feb 2020 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/df3e6389b7c86f92643bd290612a6f69/3bffc/avila.jpg&quot;
+    href=&quot;/static/2fe53f26573c2114856f1798c45f5374/c42e5/san_juan.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.23376623376623%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABq2oIlcisH//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMSE//aAAgBAQABBQKeTLiytJVO2JuX6Uf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BpX//xAAbEAACAQUAAAAAAAAAAAAAAAAAARECEjEykf/aAAgBAQAGPwI2GrauEEoyf//EABsQAAMAAgMAAAAAAAAAAAAAAAABETFRIWFx/9oACAEBAAE/IXbYjokc0X5R5DC5RCwyPormvT//2gAMAwEAAgADAAAAEGvv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EAC2/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBB/9oACAECAQE/EF0gb//EABsQAQACAwEBAAAAAAAAAAAAAAEAESFBkTFR/9oACAEBAAE/EGjPDL3jQKkMB6KEHuZVH0BuLTLapg5bV+i1n//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;San Juan&quot;
+        title=&quot;San Juan&quot;
+        src=&quot;/static/2fe53f26573c2114856f1798c45f5374/1c72d/san_juan.jpg&quot;
+        srcset=&quot;/static/2fe53f26573c2114856f1798c45f5374/a80bd/san_juan.jpg 148w,
+/static/2fe53f26573c2114856f1798c45f5374/1c91a/san_juan.jpg 295w,
+/static/2fe53f26573c2114856f1798c45f5374/1c72d/san_juan.jpg 590w,
+/static/2fe53f26573c2114856f1798c45f5374/a8a14/san_juan.jpg 885w,
+/static/2fe53f26573c2114856f1798c45f5374/fbd2c/san_juan.jpg 1180w,
+/static/2fe53f26573c2114856f1798c45f5374/c42e5/san_juan.jpg 4928w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The resulting Faustian bargain between a software developer that expresses even a modicum of interest in honing soft skills, and their pragmatic manager, oft leads a variety of interesting situations. As with many fruitful endeavors, working in the service of a summer, capital “I,” Intern forces a re-prioritization of one’s responsibilities, introspection over that mentor’s soon-to-be-harnessed body of knowledge, and a commitment of a large portion of time that may not immediately yield obvious results. &lt;/p&gt;
+&lt;p&gt;After spending a handful of Summers doing just that, and referring mainly to my mentorship of one very talented &lt;a href=&quot;https://www.shravanj.com/&quot;&gt;Shravan Jambukesan&lt;/a&gt; within Charles Schwab during the 2019 season, I’d distill some quick pieces of personal insight into the following…&lt;/p&gt;
+&lt;h2&gt;Polyrhythms of work&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0e4a6d59c9ad4f571732d3d5cff04784/29114/polyrhythm.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.510416666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQY0zWQW6uCUBSE/f+/oKcegl4sgjCkBwOTyugGYnnHgu4kll0s0up858TZT7NnzV4zs4X9fl8sFkulkizLnuc1Gg1FUWaz2WQy+eIwDNvtNlNd113XbbVa8ExhBMMwCoUCd03TTNNENxgMxuPxcDhE3e12ITudTq/XgxyNRv1+/4vr9bqw2+3Yl+d5lmW2bQdBEEVRHMeYLxaLy+WyWq0cxwGnacoU8WazQUwogTtvkiQ5nU5Qh8Nhu90+n8/7/c5erpDX63W9XqMBI2Md09/Y0+m0XC5Xq9VKpeL7/nw+Jz8+uFmWRSlWL5dL0vIjVADTAnNRFAWCYc4zKEmSVFXlC3nJOsqfz2ca1mo1VtCl2WxiiAGY2sLn/7zf7+TvvF6vbzzSwj8eD6TkRHC73Y7HI6XAjH4AY/JjrnFdxQAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Polyrhythm&quot;
+        title=&quot;Polyrhythm&quot;
+        src=&quot;/static/0e4a6d59c9ad4f571732d3d5cff04784/fcda8/polyrhythm.png&quot;
+        srcset=&quot;/static/0e4a6d59c9ad4f571732d3d5cff04784/12f09/polyrhythm.png 148w,
+/static/0e4a6d59c9ad4f571732d3d5cff04784/e4a3f/polyrhythm.png 295w,
+/static/0e4a6d59c9ad4f571732d3d5cff04784/fcda8/polyrhythm.png 590w,
+/static/0e4a6d59c9ad4f571732d3d5cff04784/efc66/polyrhythm.png 885w,
+/static/0e4a6d59c9ad4f571732d3d5cff04784/c83ae/polyrhythm.png 1180w,
+/static/0e4a6d59c9ad4f571732d3d5cff04784/29114/polyrhythm.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;At the intersection of keeping things fresh for said Intern and emulating what they can expect from the day-to-day of a developer, having multiple opportunities for work and learning ongoing at any point in time has easily been the most effective in bearing fruit. &lt;/p&gt;
+&lt;p&gt;For the aforementioned tenure at Charles Schwab, that began with me formulating some high-level goals that boiled down to the hands-on work the Intern would tackle, e.g., “Shravan is a Computer Science undergrad, in classes no different than what were offered at my university during my undergrad only a few years back, which I know for a fact convey little to nothing about ‘clean code’ and its components,” which leads to “These are important concepts that have lots of areas for exploration, and can turn into solid work for a large slice of this summer,” which ultimately fed into a lesson plan. That plan covered the usual suspects: unit, component and integration testing in both a new and legacy solution, code coverage and related metrics (and their shortcomings), development driven by those testing concepts we’ve just covered, etc., all in service of some guided, hands-on work that was a sustainable source of autodidacticism over a period of time.&lt;/p&gt;
+&lt;p&gt;However, the power in the above was only realized when pairing this work alongside other projects of varying skill-set utilizations. Think of non-technical research projects within the problem domain, or minor internal speaking engagements with the team over what they’ve learned to strengthen those presentation muscles, or better yet, having their work feed into an even bigger project that taps into all of the above to really deliver on a solid summer experience, which brings me to my next point:&lt;/p&gt;
+&lt;h2&gt;Ownership&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Anatomy of a Microblog (Literally, Figuratively, and Potentially)]]></title><description><![CDATA[Author’s Note: I’m about to break just about every ‘rule,’ guideline, and best-practice defined and discussed below. Apologies, in advance…]]></description><link>https://micwrote.com/anatomy-microblog/</link><guid isPermaLink="false">https://micwrote.com/anatomy-microblog/</guid><pubDate>Tue, 16 Jul 2019 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/df3e6389b7c86f92643bd290612a6f69/b8284/avila.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -17,13 +88,15 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Avila&quot;
         title=&quot;Avila&quot;
-        src=&quot;/static/df3e6389b7c86f92643bd290612a6f69/c739e/avila.jpg&quot;
-        srcset=&quot;/static/df3e6389b7c86f92643bd290612a6f69/8ee9c/avila.jpg 148w,
-/static/df3e6389b7c86f92643bd290612a6f69/ebbe7/avila.jpg 295w,
-/static/df3e6389b7c86f92643bd290612a6f69/c739e/avila.jpg 590w,
-/static/df3e6389b7c86f92643bd290612a6f69/5413e/avila.jpg 885w,
-/static/df3e6389b7c86f92643bd290612a6f69/3bffc/avila.jpg 985w&quot;
+        src=&quot;/static/df3e6389b7c86f92643bd290612a6f69/1c72d/avila.jpg&quot;
+        srcset=&quot;/static/df3e6389b7c86f92643bd290612a6f69/a80bd/avila.jpg 148w,
+/static/df3e6389b7c86f92643bd290612a6f69/1c91a/avila.jpg 295w,
+/static/df3e6389b7c86f92643bd290612a6f69/1c72d/avila.jpg 590w,
+/static/df3e6389b7c86f92643bd290612a6f69/a8a14/avila.jpg 885w,
+/static/df3e6389b7c86f92643bd290612a6f69/b8284/avila.jpg 985w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
