@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[micwrote]]></title><description><![CDATA[Jeremy Cantu's Microblog]]></description><link>https://micwrote.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 Feb 2020 21:40:23 GMT</lastBuildDate><item><title><![CDATA[Intaking the Intern]]></title><description><![CDATA[The resulting Faustian bargain between a software developer that expresses even a modicum of interest in honing soft skills, and their…]]></description><link>https://micwrote.com/intaking-intern/</link><guid isPermaLink="false">https://micwrote.com/intaking-intern/</guid><pubDate>Sun, 16 Feb 2020 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[micwrote]]></title><description><![CDATA[Jeremy Cantu's Microblog]]></description><link>https://micwrote.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Jun 2021 22:32:03 GMT</lastBuildDate><item><title><![CDATA[Intaking the Intern]]></title><description><![CDATA[The resulting Faustian bargain between a software developer that expresses even a modicum of interest in honing soft skills, and their…]]></description><link>https://micwrote.com/intaking-intern/</link><guid isPermaLink="false">https://micwrote.com/intaking-intern/</guid><pubDate>Sun, 16 Feb 2020 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -11,7 +11,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.23376623376623%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABq2oIlcisH//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMSE//aAAgBAQABBQKeTLiytJVO2JuX6Uf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BpX//xAAbEAACAQUAAAAAAAAAAAAAAAAAARECEjEykf/aAAgBAQAGPwI2GrauEEoyf//EABsQAAMAAgMAAAAAAAAAAAAAAAABETFRIWFx/9oACAEBAAE/IXbYjokc0X5R5DC5RCwyPormvT//2gAMAwEAAgADAAAAEGvv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EAC2/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBB/9oACAECAQE/EF0gb//EABsQAQACAwEBAAAAAAAAAAAAAAEAESFBkTFR/9oACAEBAAE/EGjPDL3jQKkMB6KEHuZVH0BuLTLapg5bV+i1n//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.21621621621621%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABq2oIlcisH//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMSE//aAAgBAQABBQKeTLiytZVO2KnL9KP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BpX//xAAbEAACAQUAAAAAAAAAAAAAAAAAARECEjEykf/aAAgBAQAGPwI2GrauEEoyf//EABoQAQACAwEAAAAAAAAAAAAAAAEAESExcWH/2gAIAQEAAT8hagagPJdyp2QgyohBEfJbu3Z//9oADAMBAAIAAwAAABBr7//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EACf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAgEBPxBeljf/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhQZExUf/aAAgBAQABPxBoy8ZecGgrCgOijT3Mqj6A3Ahrapg5bV+i1n//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -35,7 +35,7 @@
 &lt;h2&gt;Polyrhythms of work&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -46,7 +46,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 36.510416666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsTAAALEwEAmpwYAAABOklEQVQY0zWQW6uCUBSE/f+/oKcegl4sgjCkBwOTyugGYnnHgu4kll0s0up858TZT7NnzV4zs4X9fl8sFkulkizLnuc1Gg1FUWaz2WQy+eIwDNvtNlNd113XbbVa8ExhBMMwCoUCd03TTNNENxgMxuPxcDhE3e12ITudTq/XgxyNRv1+/4vr9bqw2+3Yl+d5lmW2bQdBEEVRHMeYLxaLy+WyWq0cxwGnacoU8WazQUwogTtvkiQ5nU5Qh8Nhu90+n8/7/c5erpDX63W9XqMBI2Md09/Y0+m0XC5Xq9VKpeL7/nw+Jz8+uFmWRSlWL5dL0vIjVADTAnNRFAWCYc4zKEmSVFXlC3nJOsqfz2ca1mo1VtCl2WxiiAGY2sLn/7zf7+TvvF6vbzzSwj8eD6TkRHC73Y7HI6XAjH4AY/JjrnFdxQAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 36.486486486486484%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAAsTAAALEwEAmpwYAAABP0lEQVQY0yWQSa+CQBCE+f8n/4QJB01EiXtcOKgRRSWIa4IYd0ANYKLmCe8T+zCpqanpqm4hDMN8Pi9JUrfb3W63rVar0Wis1+vlclmr1drt9m63G4/HYFVVEfT7/VKpZBhGp9MRJpNJKpVKp9OFQsE0zUql0uv1RqMRIhopijKbzZrNJoDP8EpS4EwmI9AY9e12C4JA0zT+W5Zl2/ZwOFwsFrzO53Nd1+HP5zNOeK5WK8/z6vW6QJL9fh/H8efzeb1erus+Hg+unCiez2cURb7vX6/Xv6Swud/vCMrl8je2KIqyLFer1ePx+Bv7cDjgSWD8YejIRgiy2WzwJzZ+2WxWuFwualKsrVgsIiLzdDrN5XKDwcBxHKRsCOZ0OgGYny7w39gE+OV5v99WUgDmZ+G0hyc8ak4wiRiYVzRc/wGF6mIWa1Fe5AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -71,7 +71,7 @@
 &lt;h2&gt;Ownership&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Anatomy of a Microblog (Literally, Figuratively, and Potentially)]]></title><description><![CDATA[Author’s Note: I’m about to break just about every ‘rule,’ guideline, and best-practice defined and discussed below. Apologies, in advance…]]></description><link>https://micwrote.com/anatomy-microblog/</link><guid isPermaLink="false">https://micwrote.com/anatomy-microblog/</guid><pubDate>Tue, 16 Jul 2019 03:18:57 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -82,7 +82,7 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.49746192893402%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAefXIo0owj//xAAZEAEBAAMBAAAAAAAAAAAAAAABAgAREiP/2gAIAQEAAQUCCd9Ey5T591opM//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAERAAIQIf/aAAgBAQAGPwIVsDAqtYApzP/EABkQAAIDAQAAAAAAAAAAAAAAAAERACExQf/aAAgBAQABPyFQQYwLlGjA4MlDsHSvXFIS6+wCgTP/2gAMAwEAAgADAAAAEMg//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxDGin//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABESEAMUGBcZGh/9oACAEBAAE/EH0wLcb6ZrxgLLQeYWrzL6yyQ6c0mJttvXzBojmRLcQuQABunP/Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 66.21621621621621%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAefXIo0owj//xAAZEAEBAAMBAAAAAAAAAAAAAAABAgAREiP/2gAIAQEAAQUCCd9Ey5T591opM//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAERAAIQIf/aAAgBAQAGPwIVsDAqtYApzP/EABkQAAIDAQAAAAAAAAAAAAAAAAERACExQf/aAAgBAQABPyFQQYwLlGjA4MlDsHTvXFIS6+wCgTP/2gAMAwEAAgADAAAAEMg//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxDGin//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABESEAMUGBcZGh/9oACAEBAAE/EH0wLcb6ZrxkLLQeZMq8y+sg5DpzSQm229fMGiOZEtxC5CCG6c//2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
